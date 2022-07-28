@@ -13,6 +13,7 @@ We will create an application using the github public api.
 - Search infos by username
 - Search repo by username
 - Search starred by username
+- Search following users by username
 
 ### Preview
 
